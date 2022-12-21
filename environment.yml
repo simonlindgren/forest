@@ -1,1 +1,4 @@
-plotly
+channels:
+  - anaconda
+dependencies:
+  - plotly
